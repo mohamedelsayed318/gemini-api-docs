@@ -19,8 +19,10 @@ Open your terminal or command prompt and run the following commands to verify th
 ```sh
 node -v
 npm -v
+```
+You should see the version numbers of Node.js and npm printed on the terminal like this: 
+![image](https://github.com/user-attachments/assets/b329becd-730d-4e63-875d-3fb9af2eb9b0)
 
-You should see the version numbers of Node.js and npm printed on the terminal.
 
 3. Install Project Packages
 Navigate to the project directory and install the required packages by running:
@@ -33,4 +35,6 @@ Locate the configuration file (e.g., .env, config.js, or similar) and replace th
 
 5. Run the Project
 To start the project in development mode, run the following command:
+```
 npm run dev
+```
