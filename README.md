@@ -33,8 +33,28 @@ Locate the configuration file (e.g., .env, config.js, or similar) and replace th
 
 ![code-snapshot](https://github.com/user-attachments/assets/085bbb68-a55a-425e-8543-3e49b8f2fb7f)
 
-5. Run the Project
+5. make sure you put the products.xlsx in the folder in main root like this:
+![image](https://github.com/user-attachments/assets/d4c824be-9806-4205-b3fd-69bca21ea3bc)
+
+
+7. Run the Project
 To start the project in development mode, run the following command:
 ```
 npm run dev
 ```
+8. After finish you should have output.xlsx like this:
+![image](https://github.com/user-attachments/assets/49e67515-3bd9-49ed-8aec-bb3e2a51ee60)
+
+
+
+you can modify the code base on your excel file like this:
+<br /> 
+![code-snapshot2](https://github.com/user-attachments/assets/35bf0e1d-cc7e-4661-b10b-bce542e2bfa4)
+
+here i use the last file that have the "product_name" and "prompt" only if you need to send to the ai the product name, Description and prompt just uncomment the first line by remove the "//" and comment the second line by add the "//" in the first of the line 
+
+
+
+
+
+
