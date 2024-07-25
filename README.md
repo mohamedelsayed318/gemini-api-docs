@@ -53,6 +53,7 @@ you can modify the code base on your excel file like this:
 
 here i use the last file that have the "product_name" and "prompt" only if you need to send to the ai the product name, Description and prompt just uncomment the first line by remove the "//" and comment the second line by add the "//" in the first of the line 
 
+### Don't Forget to save the file after make any change by using "ctrl + s"
 
 
 
