@@ -24,25 +24,25 @@ You should see the version numbers of Node.js and npm printed on the terminal li
 ![image](https://github.com/user-attachments/assets/b329becd-730d-4e63-875d-3fb9af2eb9b0)
 
 
-3. Install Project Packages
+### 3. Install Project Packages
 Navigate to the project directory and install the required packages by running:
 npm install
 
-4. Update API Key
+### 4. Update API Key
 Locate the configuration file (e.g., .env, config.js, or similar) and replace the placeholder API key with your own API key. For example:
 
 ![code-snapshot](https://github.com/user-attachments/assets/085bbb68-a55a-425e-8543-3e49b8f2fb7f)
 
-5. make sure you put the products.xlsx in the folder in main root like this:
+### 5. make sure you put the products.xlsx in the folder in main root like this:
 ![image](https://github.com/user-attachments/assets/d4c824be-9806-4205-b3fd-69bca21ea3bc)
 
 
-7. Run the Project
+### 6. Run the Project
 To start the project in development mode, run the following command:
 ```
 npm run dev
 ```
-8. After finish you should have output.xlsx like this:
+### 7. After finish you should have output.xlsx like this:
 ![image](https://github.com/user-attachments/assets/49e67515-3bd9-49ed-8aec-bb3e2a51ee60)
 
 
